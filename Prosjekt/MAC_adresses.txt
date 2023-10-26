@@ -1,0 +1,4 @@
+Are     ->      0C:8B:95:42:FD:58   (parking_master_node)
+Daniel  ->      8:31:CD:E7:6B:40    ()
+Fredrik ->      E8:31:CD:E7:75:B8   ()
+Vegard  ->      E0:5A:1B:6B:90:F4    ()
